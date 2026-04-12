@@ -1,0 +1,2 @@
+CREATE DATABASE BI_Practical;
+GO
