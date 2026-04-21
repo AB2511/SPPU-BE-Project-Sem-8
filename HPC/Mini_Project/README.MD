@@ -77,6 +77,18 @@ sudo apt install openmpi-bin libopenmpi-dev
 
 ## ▶️ How to Run the Program
 
+## 🖥️ How to Open and Navigate (IMPORTANT)
+
+This project must be run inside WSL (Ubuntu), not Windows Command Prompt.
+
+### Step 1: Open WSL
+wsl
+
+### Step 2: Navigate to Project Directory
+cd /mnt/d/SPPU-BE-Practical-Sem-8/HPC/Mini_Project
+
+Note: Replace `d` with your drive letter if different.
+
 ### Compile:
 
 ```bash
