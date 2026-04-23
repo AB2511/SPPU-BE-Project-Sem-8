@@ -97,6 +97,6 @@ Transformer-based models like BERT achieve high accuracy in NLP tasks due to sel
 
 ## 👩‍💻 Author
 
-Anjali Barge
-Final Year Computer Engineering Student
+Anjali Barge  
+Final Year Computer Engineering Student  
 Savitribai Phule Pune University

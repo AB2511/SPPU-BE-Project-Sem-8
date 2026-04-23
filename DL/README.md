@@ -95,8 +95,8 @@ DL/
 
 ## 🚀 Author
 
-Anjali Barge
-Final Year Computer Engineering Student
+Anjali Barge  
+Final Year Computer Engineering Student  
 Savitribai Phule Pune University
 
 ---

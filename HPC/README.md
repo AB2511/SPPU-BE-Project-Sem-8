@@ -285,6 +285,6 @@ gcc src/pq.c -fopenmp -o pq
 
 ## 📌 Author
 
-Anjali Barge
-Final Year Computer Engineering Student
+Anjali Barge  
+Final Year Computer Engineering Student  
 Savitribai Phule Pune University

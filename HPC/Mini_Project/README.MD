@@ -224,8 +224,8 @@ This project demonstrates the practical implementation of parallel computing con
 
 ## 👩‍💻 Author
 
-Anjali Santosh Barge
-B.E Computer Engineering
+Anjali Santosh Barge  
+B.E Computer Engineering  
 SPPU
 
 ---
