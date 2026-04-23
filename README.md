@@ -153,3 +153,17 @@ Savitribai Phule Pune University
 ## ⭐ Acknowledgement
 
 This repository is created as part of LP-V and LP-VI coursework and follows university guidelines. It also includes the Audit Course 8 (Emotional Intelligence) as per SPPU requirements.
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 🌟
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" />
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300">
+
+**Made with 💜 by Anjali Barge**
+
+</div>
