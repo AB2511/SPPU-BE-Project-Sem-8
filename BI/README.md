@@ -4,50 +4,48 @@ This repository contains all practical assignments performed for the **Business 
 
 ---
 
-# 🎯 What This Repo Covers
+## 📂 Folder Structure
 
-This repository includes **hands-on implementation** of:
-
-* Data import from multiple sources
-* ETL process using SQL Server
-* ROLAP-based data warehouse design
-* Data analysis using Excel (Power Query + Pivot)
-* Basic machine learning (Classification)
+```
+BI/
+├── BI_Assignment1/
+│   ├── BI_Assignment1.docx
+│   └── BI_Assignment1.pdf
+│
+├── BI_Assignment2/
+│   ├── BI_Assignment2.docx
+│   ├── BI_Assignment2.pdf
+│   ├── SQLQuery1.sql
+│   └── SQLQuery2.sql
+│
+├── BI_Assignment3/
+│   ├── BI_Assignment3.docx
+│   ├── BI_Assignment3.pdf
+│   ├── SQLQuery1.sql
+│   ├── SQLQuery2.sql
+│   └── SQLQuery3.sql
+│
+├── BI_Assignment4/
+│   ├── BI_Assignment4.docx
+│   ├── BI_Assignment4.pdf
+│   ├── BI_Assignment4.xlsx
+│   └── SQLQuery1.sql
+│
+├── BI_Assignment5/
+│   ├── BI_Assignment5.ipynb
+│   └── BI_Assignment5.pdf
+│
+├── MiniProject/
+│   ├── BI_Miniproject.docx
+│   ├── BI_Miniproject.ipynb
+│   ├── BI_Miniproject.pdf
+│   ├── BI_Miniprojectcode.pdf
+│   └── student-mat-pass-or-fail.csv
+│
+└── README.md
+```
 
 ---
-
-# 🧪 Practical-wise Explanation
-
----
-
-## 🔹 Practical 1: Data Import (Power BI)
-
-### What was done:
-
-* Imported data from:
-
-  * Excel file
-  * OData source (Northwind dataset)
-* Used **Power BI Power Query Editor**
-
-📌 Key Learning:
-
-* Data can come from **files, APIs, and databases**
-* Power Query helps transform data before loading
-
----
-
-## 🔹 Practical 2: ETL Process (SQL Server)
-
-### What was done:
-
-1. Created database (`BI_Practical`)
-2. Created table (`StudentData`)
-3. Inserted data (Extraction + Loading)
-4. Applied transformation (marks +10%)
-5. Retrieved final data
-
-📌 Key Learning:
 
 * ETL is a **process**, not just tools
 * SQL itself can perform ETL
@@ -139,33 +137,41 @@ This repository includes **hands-on implementation** of:
 
 ```
 BI/
-│── README.md
+├── README.md
 │
 ├── BI_Assignment1/
 │   ├── BI_Assignment1.docx
-│   ├── BI_Assignment1.pdf
+│   └── BI_Assignment1.pdf
 │
 ├── BI_Assignment2/
 │   ├── BI_Assignment2.docx
 │   ├── BI_Assignment2.pdf
 │   ├── SQLQuery1.sql
-│   ├── SQLQuery2.sql
+│   └── SQLQuery2.sql
 │
 ├── BI_Assignment3/
 │   ├── BI_Assignment3.docx
 │   ├── BI_Assignment3.pdf
 │   ├── SQLQuery1.sql
 │   ├── SQLQuery2.sql
-│   ├── SQLQuery3.sql
+│   └── SQLQuery3.sql
 │
 ├── BI_Assignment4/
 │   ├── BI_Assignment4.docx
 │   ├── BI_Assignment4.pdf
-│   ├── SQLQuery1.sql
+│   ├── BI_Assignment4.xlsx
+│   └── SQLQuery1.sql
 │
 ├── BI_Assignment5/
 │   ├── BI_Assignment5.ipynb
-│   ├── BI_Assignment5.pdf
+│   └── BI_Assignment5.pdf
+│
+└── MiniProject/
+    ├── BI_Miniproject.docx
+    ├── BI_Miniproject.ipynb
+    ├── BI_Miniproject.pdf
+    ├── BI_Miniprojectcode.pdf
+    └── student-mat-pass-or-fail.csv
 ```
 
 ### 📌 Structure Notes

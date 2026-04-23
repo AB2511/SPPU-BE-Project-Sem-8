@@ -8,21 +8,42 @@ This folder contains implementation of **HPC Laboratory Practicals** as per SPPU
 
 ```
 HPC/
-│
 ├── Assignment_1/
-│   └── Assignment1.cpp
+│   ├── Assignment1.cpp
+│   ├── Assignment1.exe
+│   ├── HPC_Assignment1.docx
+│   └── HPC_Assignment1.pdf
 │
 ├── Assignment_2/
-│   └── Assignment2.cpp
+│   ├── Assignment2.cpp
+│   ├── Assignment2.exe
+│   ├── HPC_Assignment2.docx
+│   └── HPC_Assignment2.pdf
 │
 ├── Assignment_3/
-│   └── Assignment3.cpp
+│   ├── Assignment3.cpp
+│   ├── Assignment3.exe
+│   ├── HPC_Assignment3.docx
+│   └── HPC_Assignment3.pdf
 │
 ├── Assignment_4/
-│   └── HPC_Assignment4.ipynb
+│   ├── HPC_Assignment4.ipynb
+│   └── HPC_Assignment4.pdf
 │
 ├── Assignment_5/
-│   └── HPC_Assignment5.ipynb
+│   ├── HPC_Assignment5.ipynb
+│   └── HPC_Assignment5.pdf
+│
+├── Mini_Project/
+│   ├── graph.png
+│   ├── HPC_Miniproject.docx
+│   ├── HPC_Miniproject.pdf
+│   ├── pq
+│   ├── README.MD
+│   └── src/
+│       └── pq.c
+│
+└── README.md
 ```
 
 ---

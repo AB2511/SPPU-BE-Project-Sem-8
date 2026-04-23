@@ -6,26 +6,38 @@ The practicals focus on core concepts of **Natural Language Processing (NLP)** i
 
 ---
 
-## 📂 Repository Structure
+## 📂 Folder Structure
 
 ```
-.
+NLP/
 ├── Assignment_1/
-│   └── NLP_Assignment1.ipynb
+│   ├── NLP_Assignment1.ipynb
+│   └── NLP_Assignment1.pdf
 │
 ├── Assignment_2/
 │   ├── NLP_Assignment2.ipynb
+│   ├── NLP_Assignment2.pdf
 │   └── data.csv
 │
 ├── Assignment_3/
 │   ├── NLP_Assignment3.ipynb
+│   ├── NLP_Assignment3.pdf
 │   └── News_dataset.pickle
 │
 ├── Assignment_4/
-│   └── NLP_Assignment4.ipynb
+│   ├── NLP_Assignment4.ipynb
+│   └── NLP_Assignment4.pdf
 │
 ├── Assignment_5/
-│   └── NLP_Assignment5.ipynb
+│   ├── NLP_Assignment5.ipynb
+│   └── NLP_Assignment5.pdf
+│
+├── MiniProject/
+│   ├── NLP_Miniproject.docx
+│   ├── NLP_Miniproject.ipynb
+│   ├── NLP_Miniproject.pdf
+│   ├── NLP_Miniproject_code.pdf
+│   └── README.md
 │
 └── README.md
 ```

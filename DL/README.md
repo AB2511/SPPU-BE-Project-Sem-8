@@ -10,13 +10,18 @@ This folder contains the implementation of Deep Learning assignments as per **Sa
 DL/
 ├── Assignment_1/
 │   ├── DL_Assignment1.ipynb
+│   ├── DL_Assignment1.pdf
 │   └── HousingData.csv
 │
 ├── Assignment_2/
-│   └── DL_Assignment2.ipynb
+│   ├── DL_Assignment2.ipynb
+│   └── DL_Assignment2.pdf
 │
 ├── Assignment_3/
-│   └── DL_Assignment3.ipynb
+│   ├── DL_Assignment3.ipynb
+│   └── DL_Assignment3.pdf
+│
+└── README.md
 ```
 
 ---
