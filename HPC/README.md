@@ -221,6 +221,39 @@ GPU Available: [PhysicalDevice(...GPU...)]
 
 ---
 
+## 🧪 MINI PROJECT
+
+### Priority Queue Implementation using OpenMP
+
+✔ Implemented:
+
+* Priority Queue data structure in C
+* Parallel operations using OpenMP
+* Source code in `src/pq.c`
+* Compiled executable `pq`
+
+### 📁 Project Structure:
+
+```
+Mini_Project/
+├── src/
+│   └── pq.c          # Main source code
+├── pq                # Compiled executable
+├── graph.png         # Output/performance graph
+├── HPC_Miniproject.docx
+├── HPC_Miniproject.pdf
+└── README.MD
+```
+
+### 🔧 How to Run:
+
+```bash
+gcc src/pq.c -fopenmp -o pq
+./pq
+```
+
+---
+
 ## 📊 KEY LEARNING
 
 * Parallel ≠ Always faster

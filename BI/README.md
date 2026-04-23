@@ -133,6 +133,34 @@ BI/
 
 ---
 
+## 🔹 Mini Project: Student Pass/Fail Prediction
+
+### What was done:
+
+* Dataset: Student Performance (`student-mat-pass-or-fail.csv`)
+* Algorithm: Classification (Pass/Fail prediction)
+* Tools: Power BI, Python
+
+### Steps:
+
+* Data loading and exploration
+* Feature engineering
+* Model training
+* Evaluation and visualization
+
+### 📁 Project Files:
+
+```
+MiniProject/
+├── BI_Miniproject.ipynb       # Python implementation
+├── BI_Miniproject.pdf         # Project documentation
+├── BI_Miniproject.docx        # Word document
+├── BI_Miniprojectcode.pdf     # Code documentation
+└── student-mat-pass-or-fail.csv  # Dataset
+```
+
+---
+
 # 📂 Repository Structure
 
 ```

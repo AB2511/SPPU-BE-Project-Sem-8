@@ -112,6 +112,38 @@ NLP/
 
 ---
 
+## 🧪 MINI PROJECT
+
+### NLP Mini Project
+
+✔ Implemented:
+
+* Complete NLP pipeline project
+* Text processing and analysis
+* Model training and evaluation
+
+### 📁 Project Structure:
+
+```
+MiniProject/
+├── NLP_Miniproject.ipynb    # Main implementation
+├── NLP_Miniproject.pdf      # Project documentation
+├── NLP_Miniproject.docx     # Word document
+├── NLP_Miniproject_code.pdf # Code documentation
+└── README.md                # Project readme
+```
+
+### 🔧 How to Run:
+
+1. Open Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
+2. Run all cells in `NLP_Miniproject.ipynb`
+
+---
+
 ## 🛠️ Technologies Used
 
 * Python
